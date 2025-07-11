@@ -1,0 +1,13 @@
+{
+  "version": "012.0",
+  "configurations": [
+    {
+      "name": "Run all tests with pytest",
+      "type": "debugpy",
+      "request": "launch",
+      "module": "pytest",
+      "args": ["tests/"],
+      "justMyCode": true
+    }
+  ]
+}
