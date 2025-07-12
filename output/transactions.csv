@@ -1,0 +1,170 @@
+description,amount,date,full_text
+Today, 3,,"Today
+This Week
+This Month
+Last 3 Months
+16:55, 31 October 2019
+4"
+CARD HOLDER,,,"CARD HOLDER
+JOHN DOE"
+VALID THRU,"
+06",,"VALID THRU
+06/2025
+MASTERCARD"
+CARD HOLDER,,,"CARD HOLDER
+JOHN DOE"
+VALID THRU,"
+12",,"VALID THRU
+12/2024
+VISA"
+CARD HOLDER,,,"CARD HOLDER
+JOHN DOE"
+VALID THRU,"
+08",,"VALID THRU
+08/2026
+AMERICAN EXPRESS"
+CARD HOLDER,,,"CARD HOLDER
+JOHN DOE"
+VALID THRU,"
+03",,"VALID THRU
+03/2025
+DISCOVER"
+Recent Transactions,,,"Recent Transactions
+Transfer
+Pay Bills
+View All"
+Amazon Purchase,$245.99,,"Amazon Purchase
+Electronics & Gadgets
+Amazon.com
+$245.99
+Today
+Completed"
+Amazon Purchase,,,"Amazon Purchase
+Electronics & Gadgets
+Amazon.com"
+Salary Deposit,$5420.00,,"Salary Deposit
+Monthly salary payment
+TechCorp Inc
++$5420.00
+Today
+Completed"
+Salary Deposit,,,"Salary Deposit
+Monthly salary payment
+TechCorp Inc"
+Starbucks,1234,,"Starbucks
+Coffee and pastries
+Starbucks #1234
+$12.45
+Yesterday
+Completed"
+Starbucks,1234,,"Starbucks
+Coffee and pastries
+Starbucks #1234"
+Gas Station,$78.32,,"Gas Station
+Fuel purchase
+Shell Gas Station
+$78.32
+Yesterday
+Completed"
+Gas Station,,,"Gas Station
+Fuel purchase
+Shell Gas Station"
+Netflix Subscription,$15.99,,"Netflix Subscription
+Monthly streaming service
+Netflix
+$15.99
+2 days ago
+Completed"
+Netflix Subscription,,,"Netflix Subscription
+Monthly streaming service
+Netflix"
+ATM Withdrawal,567,,"ATM Withdrawal
+Cash withdrawal
+Bank ATM #567
+$200.00
+3 days ago
+Completed"
+ATM Withdrawal,567,,"ATM Withdrawal
+Cash withdrawal
+Bank ATM #567"
+Freelance Payment,$1250.00,,"Freelance Payment
+Web design project
+Digital Agency
++$1250.00
+3 days ago
+Pending"
+Freelance Payment,,,"Freelance Payment
+Web design project
+Digital Agency"
+Uber Ride,$45.20,,"Uber Ride
+Transportation to airport
+Uber Technologies
+$45.20
+4 days ago
+Completed"
+Grocery Store,$156.78,,"Grocery Store
+Weekly grocery shopping
+Walmart Supercenter
+$156.78
+5 days ago
+Completed"
+Grocery Store,,,"Grocery Store
+Weekly grocery shopping
+Walmart Supercenter"
+Investment Return,$89.45,,"Investment Return
+Dividend payment
+Fidelity Investments
++$89.45
+6 days ago
+Completed"
+Investment Return,,,"Investment Return
+Dividend payment
+Fidelity Investments"
+Hotel Booking,$320.00,,"Hotel Booking
+Business trip accommodation
+Marriott Hotels
+$320.00
+1 week ago
+Completed"
+Hotel Booking,,,"Hotel Booking
+Business trip accommodation
+Marriott Hotels"
+Consulting Fee, 500,,"Consulting Fee
+Strategic consulting project
+Fortune 500 Corp
++$3500.00
+1 week ago
+Completed"
+Consulting Fee, 500,,"Consulting Fee
+Strategic consulting project
+Fortune 500 Corp"
+Restaurant,$89.50,,"Restaurant
+Business dinner
+The Capital Grille
+$89.50
+1 week ago
+Completed"
+Office Supplies,$245.30,,"Office Supplies
+Home office equipment
+Office Depot
+$245.30
+2 weeks ago
+Completed"
+Office Supplies,,,"Office Supplies
+Home office equipment
+Office Depot"
+Stock Sale,$2100.00,,"Stock Sale
+Technology stock profit
+E*TRADE
++$2100.00
+2 weeks ago
+Completed"
+Credit Card, 2,,"Credit Card
+Due in 2 days
+$1,245.50"
+Internet, 5,,"Internet
+Due in 5 days
+$89.99"
+Insurance, 12,,"Insurance
+Due in 12 days
+$340.00"
